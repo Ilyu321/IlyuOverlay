@@ -5,6 +5,7 @@ Basic step-by-step guide for the current early access PoE2 campaign.
 Reads out log file to determine current area to show notes. 
 
 How to use:
+- Download zip
 - Change line 22 in Run.ahk with your Client.txt path
 - Have AHK installed
 - Run Run.ahk :)
