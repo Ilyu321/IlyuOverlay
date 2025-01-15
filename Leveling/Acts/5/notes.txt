@@ -1,0 +1,142 @@
+﻿zone:Vastiri Outskirts
+- Hug wall opposite direction of lore book										  
++ Kill Rathbreaker
+> Portal
+< Zarka (Skill Gem)
+
+~~
+
+> Caravan
+< Asala (Unlock Desert Map)
+> Move caravan to Mawdun Quarry
+
+zone:Mawdun Quarry
+> Mawdun Mine
+
+zone:Mawdun Mine
++ Kill Rudja
++ Free Risu
+> Portal
+
+~~
+
+> Move caravan to The Halani Gates
+
+zone:Traitor's Passage
+- lore book crossroad (paper seals -> boss)		  
++ Kill Balbala (trail entry)
+> The Halani Gates
+
+zone:The Halani Gates
+- Always same layout					 
++ Run to the gate to Asala
+> Move the Caravan to Traitor's Passage
+
+~~
+
++ Click NPC and wait for her
++ Open all 3 gates to proceed
++ Kill Jamanra (until low life)
++ Run after and Portal on CP
+< Zarka (Skill Gem)
+
+~~
+
+Move the caravan to Keth
+
+zone:Keth
+- fairly set layout		 
++ Get WP
++ Kill Kabala (2 Passives)
++ Loot Kabala Clan Relic (also next zone)
+> The Lost City
+
+zone:The Lost City
++ Loot Kabala Clan Relic
+> Buried Shrines
+
+zone:Buried Shrines
+- 2 blocks separated by 2x bridges				   
+> The Heart of Keth
++ Kill Azarian
++ Talk to NPC and pick cinder behind
++ Ignite and wait for Essence!
+> Portal
+< Zarka (Reward)
+
+~~
+
+> Move caravan to Mastondon Badlands
+
+zone:Mastodon Badlands
+> The Bone Pits
+
+zone:The Bone Pits
++ Loot Sun Clan Relicasd 
++ Kill Ekbab + Iktab
+> Portal
+< Zarka (Reward)
+
+~~
+
+> Move caravan to Valley of the Titans
+> Valley of the Titans
+
+zone:Valley of the Titans
+- Walk around in circle
+- CP = Seal, Grotto at start
++ Activate 3x seals
++ Put relics in altar
+> Titan Grotto
+
+zone:The Titan Grotto
++ Kill Zalmarath
++ Take Flame Ruby
+> Portal
+< Zarka (Reward + Horn)
+
+~~
+
+> Move caravan to The Halani Gates
++ Use the Horn in front of the caravan
+< Asla (Talk)
+> Move Caravan to Deshar
+> Deshar
+
+zone:Deshar
+- straight line entry->exit (across)		   
++ Get WP
++ Find Fallen Dekhara + take letter
+> Path of Mourning
+
+zone:Path of Mourning
+- from left to right side
+> The Spires of Deshar
+
+zone:The Spires of Deshar
+- from left to right side
++ Kill Tor Gul
+> Portal
+
+~~
+
+< Shambrin (Letter -> 2 Passives)
+< Asala
+> Move the caravan to The Dreadnought
+
+zone:The Dreadnought
+> Dreadnought Vanguard
+
+zone:Dreadnought Vanguard
++ Kill Jamanra
+< Asala (talk)
+> Portal
+
+~~
+
+< Hooded One (outside)
+< Asala (finish act)
+
+zone:end
+
+

@@ -1,0 +1,129 @@
+﻿zone:Sandswept Marsh
+- opposite of the entrance
+> Ziggurat Encampment
+
+~~
+
+> Walk to Jungle Ruins
+
+zone:Jungle Ruins
+- run circle on outside, ape middle								   
++ Get CP Infested Barrens
++ Kill Mighty Silverfist (2 Passives)
++ Get WP
+> Venom Crypts
+
+~~
+
+> Infested Barrens
+
+
+zone:The Venom Crypts
++ Find corpse + take Poison
+> Portal
+< Servi (reward)
+> Jungle Ruins
+
+zone:Infested Barrens
+- run circle on outside					   
++ Get WP
+> The Azak Bog
+
+~~
+
+> Chimeral Wetlands
+
+~~
+
++ Use soul core
+> The Matlan Waterways
+
+zone:The Azak Bog
+- Boss in north/east quadrant
++ Kill Ignagduk
+> CP -> Entrance
+> Infested Barrens
+
+zone:Chimeral Wetlands
+> The Temple of Chaos
++ Kill Xyclucian
+
+~~
+
+> Jiquani's Machinarium (behind Xyclucian)  
+
+zone:The Temple of Chaos
++ Get WP
+> Chimeral Wetlands
+
+zone:Jiquani's Machinarium
++ Get WP
++ Get 1x soul core to proceed
+
+~~
++ Get 2x soul core
+- dont waste soul core on reward room
++ Kill Blackjaw (+10% Fire Resistance)
+> Jiquani's Sanctum
+
+zone:Jiquani's Sanctum
++ Find 2x medium soul cores (left / right)
++ Place them in generators
++ Kill Zicoatl
+> Walk WP + TP to Infested Barrens
+
+zone:The Matlan Waterways
++ Use levers until big lever
+> Portal 
+< Servi (Charm)
+> Walk down Ziggurat stairs
+< Alva (talk)
+> The Drowned City
+
+zone:The Drowned City
+- Follow main road / east-south
+> Apex of Filth
+
+~~
+> Walk back to town
+> Temple of Kopec
+
+zone:Apex of Filth
+- spiral -> stay on inner wall							  
++ Kill Mother of Filth
+> CP to WP
+> The Drowned City
+
+zone:Temple of Kopec
+> Upstairs (in the corners)
++ Kill Ketzuli
+
+~~
+> Talk to Alva for time travel
+> Skip RP via Portal
+> Gateway
+> Utzaal
+
+zone:Utzaal
+- Always same layout
++ Look for Sacrifical Heart (killing Mobs)
+
+- First right up, right down
+- Mini bridge, on main road up
++ Kill Napuatzi
+
+- Go Right, then up				  
+> Aggorat
+
+zone:Aggorat
+- everything is in top/left sacrifice area
+- in the area top/right to sacrifice, top chambers
++ loot Sacrifical Heart or zone reset
++ Sacrifice the Heart
+> The Black Chambers
+
+zone:The Black Chambers
+- entry stairs facing top left pointing to doryani
+- start by going left, then just north/west
++ Kill Doryani
+zone:end

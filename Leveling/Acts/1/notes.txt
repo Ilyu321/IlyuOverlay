@@ -1,0 +1,129 @@
+﻿zone:The Riverbank
++ Kill zombie to loot weapon + equip
++ Get skill gem + use it
++ Kill the Bloated Miller
+> The Clearfell Encampment
+
+~~
+
+< Renly (support gem)
++ Use support to proceed
+> Clearfell
+
+zone:Clearfell
++ Kill Beira (North / +10% cold resistance)
+
++ Get WP (Optional)
+> Mud Burrow (Optional Skill gem)
+
+~~
+
+> The Grelwood
+
+zone:Mud Burrow
++ Kill The Devourer
+> Portal
+< Renly (skill gem)
+> Clearfell
+
+zone:The Grelwood
+- Diamond Pattern for Hut/Boss/WP
+> The Red Vale (northeast/southeast of entry)
++ Get WP
+> The Grim Tangle
+
+~~
+
++ The Red Vale done: stab 3x seals
+> Portal (dont wait)
+< Una (talk)
+> The Grim Tangle
+
+zone:The Red Vale
+- Circular pattern
++ Get runed girdles from piles
++ Kill the Rust King
+> Portal
+
+~~
+
+< Renly (Runed Spikes)
+> The Grelwood
+> If no WP: portal -> CP -> walk
+
+zone:The Grim Tangle
++ Get WP
+> The Grelwood
+
+~~
+
++ Kill Ervig (Optional)
+> Cemetery of the Eternals (top/left)
+
+zone:Cemetery of the Eternals
+- Square layout, run a circle
+> Tomb of the Consort (order irrelevant)
+> Mausoleum of the Praetor (order irrelevant)
+
+~~
+
+< Lachlann
++ Kill Lachlann
++ Pick up Count Lachlann's Ring
+> Hunting Grounds
+
+zone:Tomb of the Consort
+- North, going up through mid
++ Kill Asinia
++ Take Key Piece
+> Use given portal
+
+zone:Mausoleum of the Praetor
+- Run along wall across the entrance
++ Kill Draven
++ Take Key Piece
+> Use given portal
+
+zone:Hunting Grounds
+- Run along the outside wall
+- crowbell has boss room
++ Kill Crowbell (2 Passives)
+> Freythorn (before Ogham Farmlands)
+> Ogham Farmlands
+
+zone:Freythorn
++ Do 3x Rituals
++ Kill King in the Mists
+> Hunting Grounds
+
+zone:Ogham Farmlands
+- Lute in the middle / exit across + down
++ Get Una's Lute (2 Passives)
+> Ogham Village
+
+zone:Ogham Village
+- Boss north-west
++ Find renly's smithing tools (league start)
++ Kill The Executioner
++ Free the prisoner
+> The Manor Ramparts
+
+zone:The Manor Ramparts
+> WP to town
+< Leitis (skill gem)
+> The Manor Ramparts
+
+~~
+
+- U-Shaped area
+> Oghman Manor
+
+zone:Oghman Manor
+- North boss then southeast level 2
++ Kill Candlemass (+20 Maximum Life)
+> Proceed stairs
++ Kill Count Geonor
+> Portal
+< Hooded One (Act2)
+
+zone:end
